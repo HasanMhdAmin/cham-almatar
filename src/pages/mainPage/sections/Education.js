@@ -19,7 +19,7 @@ function Education() {
         background: {
             // paddingTop: 100,
             backgroundColor: "#ffffff",
-            marginBottom: 400, // this is to achieve the footer behavior
+            marginBottom: 300, // this is to achieve the footer behavior
             boxShadow: "0px 20px 20px 0px #00000014",
         },
         titleSection: {

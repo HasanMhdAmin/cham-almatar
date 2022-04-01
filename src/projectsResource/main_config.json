@@ -18,5 +18,5 @@
   "showEducation": true,
   "showCertificates": true,
   "showContact": true,
-  "showFooter": true
+  "showFooter": false
 }

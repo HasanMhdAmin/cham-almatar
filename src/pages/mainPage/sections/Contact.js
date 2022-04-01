@@ -99,7 +99,7 @@ function Contact() {
     const footer = () => {
         if (mainConfig.showFooter)
             return <div style={styles.footer}>
-                Developed️ by <a style={styles.hasanName} href="https://itshasan.de">me</a> using <a
+                Developed️ by <a style={styles.hasanName} href="https://itshasan.de">Hasan Mhd Amin</a> using <a
                 style={styles.hasanName} href="https://reactjs.org/"
                 target="_blank">ReactJs</a>
             </div>
