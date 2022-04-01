@@ -1,0 +1,319 @@
+[
+  {
+    "projectName": "News Diversity",
+    "shortDesc": "The topic of my master thesis is “Computing Diversity in News Sources”",
+    "HtmlDesc": "<p dir=\"ltr\">The topic of my master thesis is &ldquo;Computing Diversity in News Sources&rdquo; it aims to detect the diversity of news fetched from news-source (e.g. BBC, Telegraph, Daily Mail, etc.) and to detect the news diversity globally.</p>\n<p dir=\"ltr\">The main process is to fetch the articles from every news-source periodically, using the RSS feed and analyze the articles to detect the category of each article, extract keywords from the article and do NLP processing to analyze the text.</p>\n<p dir=\"ltr\">What I offer to the end-user are a website, an Android application and a Chrome extension, they will show to the end-user some charts to visualize how the news are diverse around the world.</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Analyze the project: drawing use-case and ERD, classes design.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Database design and implementation.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementing the backend using Spring boot (Java / Kotlin / Vaadin).</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Create an Android application (basically a browser with an additional feature that will visualize to the user some information about the article and the domain that he/she reads from).</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implement a website using ReactJS.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implement a Chrome extension displays the same data as the Android app.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">The data presented by the App and Chrome extension are: Source Popularity, Article Popularity, Ease of Reading, Sentiment, Objectivity, Political Bias, News Diversity, Category.</p>\n</li>\n</ul>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">[<a href=\"http://hasanmhdamin.github.io/news-diversity/\" target=\"_blank\">Preview Link</a>]</p>",
+    "company": "Master Thesis at University of Duisburg-Essen, Germany",
+    "companyUrl": "https://www.uni-due.de/",
+    "platforms": [
+      "Android",
+      "Front-end",
+      "Back-end",
+      "Chrome Extension"
+    ],
+    "duration": "04/2020 - 09/2020",
+    "tags": [
+      "Spring Boot",
+      "ReactJS",
+      "Restful API",
+      "Java",
+      "Kotlin",
+      "Hibernate",
+      "JPA",
+      "RSS feed",
+      "MySQL",
+      "Android Studio",
+      "Intellij IDEA"
+    ],
+    "filters": [
+      "all",
+      "personal",
+      "mobile",
+      "web"
+    ],
+    "heroImage": "news-diversity.png",
+    "images": []
+  },
+  {
+    "projectName": "Cordova & Ionic plugins",
+    "shortDesc": "Plugins to wrap the native PhotoEditor SDK and VideoEditor SDK",
+    "HtmlDesc": "<p dir=\"ltr\"><span>About imgly: img.ly is a technology provider for cutting edge image processing solutions.&nbsp;</span></p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>I worked in the Android development team on PhotoEditor SDK, and VideoEditor SDK using Java, Kotlin and OpenGL.</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>I also worked on &ldquo;UBQ&rdquo;, </span><span>Ubiqu</span><span> is a ubiquitous, realtime, high quality creative engine written in C++. It is multi-platform and backend agnostic.</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Create plugins for Cordova and Ionic to wrap the native PhotoEditor SDK and VideoEditor SDK to make it easily used and integrated with apps built using Cordova and Ionic without forcing the developers to leave their JavaScript tooling and programming environment. [<a href=\"https://blog.photoeditorsdk.com/cordova-plugin/?utm_campaign=wrapper%20support&amp;utm_medium=social&amp;utm_source=facebook&amp;utm_content=cordova%20plugin&amp;fbclid=IwAR0_mBjBz7snvyHBII6vNJw0R0jTYxXCut9w8O5A-s91XovFPTS1w2kN314\" target=\"_blank\">blog post</a>]</p>\n</li>\n</ul>",
+    "company": "img.ly GmbH, Bochum",
+    "companyUrl": "https://img.ly/",
+    "platforms": [
+      "Android",
+      "iOS",
+      "Cordova",
+      "Ionic"
+    ],
+    "duration": "05/2020 - 09/2020",
+    "tags": [
+      "Android",
+      "iOS",
+      "Cordova",
+      "Ionic",
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Visual Studio Code",
+      "NPM"
+    ],
+    "filters": [
+      "all",
+      "professional",
+      "mobile"
+    ],
+    "heroImage": "cordova-wrapper.jpg",
+    "images": []
+  },
+  {
+    "projectName": "PAX",
+    "shortDesc": "A health recommender system app for mental health promotion",
+    "HtmlDesc": "<p>PAX is an Android application that I developed as the platform for running research studies. It tracks user behavior and smartphone sensor data, which it sends to our secure servers at the University of Duisburg-Essen. The app then recommends personalized, context-aware behavioral interventions. Currently, the interventions are focused on mental health promotion and reducing the negative effects of stress in daily life. This version of the application is scheduled for a release in April 2020. The application has several functionalities, and all interested researchers are welcome to contact me to use the app for their own research. PAX can be used for any psychological, behavioral, or user-centered studies in both academia and industry. A few functionalities of PAX are:</p>\n<ul>\n<li>A variety of questionnaires, both valid and gamified (mood, stress, personality, health attitude, physical activity, sleep, etc., are already integrated).</li>\n<li>Experience sampling components, both scheduled and intelligent</li>\n<li>User social behavior modeling, location data, activity, call &amp; SMS logging, weather, calendar, app usage and sessions, noise, light, screen unlocks, etc.</li>\n<li>Presenting recommendation to users</li>\n<li>Initial gamified preference elicitations for cold start</li>\n<li>Adding recommendation, social, and collaborative content generation</li>\n<li>User control and personal modification of content</li>\n<li>User feedback and personal reports of progress and collected data</li>\n<li>Pre- and post-study surveys</li>\n</ul>",
+    "company": "Interactive Systems Group, Duisburg",
+    "companyUrl": "-",
+    "platforms": [
+      "Android",
+      "Back-end"
+    ],
+    "duration": "01/2019 - 09/2020",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "JSON",
+      "Android Studio",
+      "ContentResolver",
+      "ActivityRecognitionClient",
+      "AlarmManager",
+      "AccessibilityService",
+      "Fabric",
+      "Firebase",
+      "ActiveAndroid",
+      "Git",
+      "Postman",
+      "Runtime permissions",
+      "MySQL"
+    ],
+    "filters": [
+      "all",
+      "professional",
+      "mobile"
+    ],
+    "heroImage": "pax.png",
+    "images": []
+  },
+  {
+    "projectName": "PAX Mood Tracker",
+    "shortDesc": "An android mood tracker for comparing various mood measures",
+    "HtmlDesc": "<p>Mood Tracking PAX is a subdivision of the PAX app. This Android application is designed to study and compare various mood measures and interactive designs. It compares classical, chatbot, and graphical interfaces against various mood measures from the literature.</p>\n<p>Although I designed this app for a scientific study, users have continued to use it by choice beyond the study duration. The study was announced to be for a maximum of two weeks. The app is still active, and it has users who have been using it for more than 200 days. Screenshots of this app are located in the gallery of this website.</p>\n<p>Interesting results emerged from this study. Beyond finding the best approach for mood tracking, I was able to come up with a short, new measure for mood tracking. Using collected data, I also investigated an adaptive measure that adapts its questions based on its prediction of the user&rsquo;s mood. Interestingly, I found the user&rsquo;s positive and negative affect to be different with regard to the temporal effect. I also defined a baseline for the future machine-learning&ndash;based prediction for such an adaptive measure.</p>\n<p dir=\"ltr\"><span>[</span><a href=\"https://play.google.com/store/apps/details?id=info.interactivesystems.pax.mood\"><span>Download Link</span></a><span>]</span></p>\n<p dir=\"ltr\"><span>In Press:</span></p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"https://www.waz.de/staedte/essen/uni-sucht-tester-die-dem-smartphone-ihre-gefuehle-zeigen-id216537537.html\"><span>WAZ</span></a><span> [German]</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"https://medizin-aspekte.de/106615-stimmungserfassung-danke-smartphone-mir-gehts-gut/\"><span>Medizin Aspekte</span></a><span> [German]</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"https://www.aerztezeitung.de/medizin/krankheiten/neuro-psychiatrische_krankheiten/article/982091/pax-mood-tracker-probanden-stimmungserfassung-per-app-gesucht.html\"><span>&Auml;rzte Zeitung</span></a><span> [German]</span></p>\n</li>\n<li><span><a href=\"https://www.uni-due.de/2019-02-27-volunteers-wanted-for-mood-tracking\"><span>University of Duisburg-Essen</span></a><span> [English]</span></span></li>\n</ul>",
+    "company": "Interactive Systems Group, Duisburg",
+    "companyUrl": "-",
+    "platforms": [
+      "Android",
+      "Back-end"
+    ],
+    "duration": "08/2018 - 01/2019",
+    "tags": [
+      "Java",
+      "Kotlin",
+      "JSON",
+      "Android Studio",
+      "Fabric",
+      "ActiveAndroid",
+      "Git",
+      "Postman",
+      "PHP"
+    ],
+    "filters": [
+      "all",
+      "professional",
+      "mobile"
+    ],
+    "heroImage": "mood-tracker.png",
+    "images": []
+  },
+  {
+    "projectName": "RTA Dubai",
+    "shortDesc": "An application for \"Roads and Transport Authority\" for Dubai E-Government",
+    "HtmlDesc": "<p dir=\"ltr\">Android Application for \"Roads and Transport Authority\" for Dubai E-Government that allows the user to book a parking, renew or replace driver&rsquo;s license, renew vehicle registration, book a taxi and too many other services.</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Member of Android team developer.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Re-design all app layout for the new version.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation of new functionalities in the app: book parking, renew a driver's license, renew vehicle registration, pay fines.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation of the watch app.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Support multi-language in the application (English, Arabic, Russian, Hindi).</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Support RTL layout.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Fix the previous version bugs.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Enhancements and fix crashes (99.8% crash free users / 1,000,000+ installs).</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Dealing with back-end response JSON, XML, and IBM Worklight back-end.</p>\n</li>\n</ul>\n<p dir=\"ltr\">[<a href=\"https://play.google.com/store/apps/details?id=com.rta.rtadubai&amp;hl=en\" target=\"_blank\">Download Link</a>]</p>",
+    "company": "CloudAppers, Damascus",
+    "companyUrl": "http://cloudappers.com/",
+    "platforms": [
+      "Android"
+    ],
+    "duration": "12/2016 – 07/2017",
+    "tags": [
+      "Java",
+      "JSON",
+      "XML",
+      "Android Studio",
+      "Fabric",
+      "Google Maps",
+      "Firebase",
+      "Git",
+      "AppPulse"
+    ],
+    "filters": [
+      "all",
+      "professional",
+      "mobile"
+    ],
+    "heroImage": "rta.jpg",
+    "images": []
+  },
+  {
+    "projectName": "Visit Abu Dhabi",
+    "shortDesc": "An application that shows POIs in Abu Dhabi.",
+    "HtmlDesc": "<p dir=\"ltr\">Android Application for the Department of Culture and Tourism in Abu Dhabi, this application contains a good deal of information about Abu Dhabi city like Hotels &amp; Resorts, Attractions, Culture &amp; Heritage, Restaurants, and SPA etc.&nbsp;</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation of \"Trip Planner\" feature that allows the users to plan their trip to Abu Dhabi by adding events or places to visit in specific days during the trip in Abu Dhabi.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation and design the Tablet layouts</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Fix the previous version bugs</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementing new features like deals and ArcGIS Maps.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Show related content from social media.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Deep linking, to open a specific page in the App when the user receives a notification from the advertiser.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Support multi-language in the application (English, German, Arabic, ...).</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Support RTL layout.</p>\n</li>\n</ul>\n<p dir=\"ltr\">[<a href=\"https://play.google.com/store/apps/details?id=com.visitabudhabi.android&amp;hl=en\" target=\"_blank\">Download Link</a>]</p>\n<p>&nbsp;</p>",
+    "company": "CloudAppers, Damascus",
+    "companyUrl": "http://cloudappers.com/",
+    "platforms": [
+      "Android"
+    ],
+    "duration": "12/2016 – 07/2017",
+    "tags": [
+      "Java",
+      "JSON",
+      "XML",
+      "Android Studio",
+      "Fabric",
+      "ArcGIS Maps",
+      "Firebase",
+      "Git"
+    ],
+    "filters": [
+      "all",
+      "professional",
+      "mobile"
+    ],
+    "heroImage": "vad.png",
+    "images": []
+  },
+  {
+    "projectName": "CloudParking",
+    "shortDesc": "Allow the co-workers in a company to rent their parking to other co-workers",
+    "HtmlDesc": "<p dir=\"ltr\">An Android application and website that allow the co-workers in a company to rent their parking to other co-workers who don't have a parking place in the company parking.</p>\n<p dir=\"ltr\">The idea is, we found that a lot of the co-workers have a problem with finding parking for their cars, and there are companies providing parking spaces to the employees, but for sure the number of parking is less than the number of employees, and each day there are bunches of unoccupied parking place due to employee vacation or home office or something else, so in this case, the employee can rent his/her parking place to another employee may need it, because it'll be cheaper than the public parking</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation of the back-end</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Build the RESTful API request and response with error codes</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design the Database</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design and implementing the Android application</p>\n</li>\n</ul>\n<p dir=\"ltr\">[<a href=\"https://drive.google.com/open?id=1AcVzVaC9azl4eWimFMF1nXN4FfU2PoCG\" target=\"_blank\">Download Link</a> Android version]</p>\n<p dir=\"ltr\">[<a href=\"https://hasanmhdamin.github.io/cloudparking-web/\" target=\"_blank\">Preview Link</a> Web version]</p>\n<p dir=\"ltr\">Test login credential:</p>\n<p dir=\"ltr\">As Parking owner:</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Email:&nbsp; &nbsp; &nbsp; &nbsp; owner@email.com</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Password: 123123</p>\n</li>\n</ul>\n<p dir=\"ltr\">As Client</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Email:&nbsp; &nbsp; &nbsp; &nbsp; client@email.com</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Password: 123123</p>\n</li>\n</ul>",
+    "company": "Personal Project",
+    "companyUrl": "#",
+    "platforms": [
+      "Android",
+      "Front-end",
+      "Back-end"
+    ],
+    "duration": "",
+    "tags": [
+      "MS SQL Server",
+      "MS Management Studio",
+      "Android Studio",
+      "Java",
+      "C#",
+      "Entity Framework",
+      "ReactJS",
+      "Material Design",
+      "Firebase",
+      "Fabric",
+      "JSON",
+      "Postman",
+      "Git"
+    ],
+    "filters": [
+      "all",
+      "personal",
+      "mobile",
+      "web"
+    ],
+    "heroImage": "cloudparking.png",
+    "images": []
+  },
+  {
+    "projectName": "SyriaAd",
+    "shortDesc": "Allow the users to share their advertisements and search for products or services",
+    "HtmlDesc": "<p dir=\"ltr\">This \u200Bapplication allows the users to share their advertisements (electronics, cars, furniture, fashion...) and search for products or services online and order products directly from the advertiser.</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementation of the back-end</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Build the RESTful API request and response with error codes</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design the Database</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design and implementing the Android application</p>\n</li>\n</ul>\n<p dir=\"ltr\">[<a href=\"https://drive.google.com/open?id=1s_tlftIWODmOmwycsYyci-RwzugB1qtL\">Download Link</a>]</p>",
+    "company": "Personal Project",
+    "companyUrl": "",
+    "platforms": [
+      "Android",
+      "Back-end"
+    ],
+    "duration": "",
+    "tags": [
+      "MS SQL Server",
+      "MS Management Studio",
+      "Android Studio",
+      "Java",
+      "C#",
+      "Entity Framework",
+      "Lucene.Net",
+      "Fabric",
+      "JSON",
+      "Postman",
+      "PubNub(real-time messages)",
+      "Facebook SDK",
+      "Git"
+    ],
+    "filters": [
+      "all",
+      "personal",
+      "mobile"
+    ],
+    "heroImage": "syria-ad.png",
+    "images": []
+  },
+  {
+    "projectName": "Smart Learning",
+    "shortDesc": "Help students to access learning resources in a more straightforward matter",
+    "HtmlDesc": "<p dir=\"ltr\"><span>The goal is to help students to access learning resources in a more straightforward matter by adding clickable QR-code on learning material (slides, PDF).</span></p>\n<p dir=\"ltr\"><span>Students face a lot of problems while preparing for exams and always looking for some helping material at the later stages, so this project will provide the student a common platform by just scanning our QR code app and get easy access to the learning material of their needs.</span></p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>Implementing the back-end</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>Build the RESTful API request and response with error codes</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>Design the MongoDB classes</span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><span>Design and implement the web application, e.g. of features: (create board, add reference, voting, scan/generate QR-Code, login, registration, etc&hellip;).</span></p>\n</li>\n</ul>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\"><span>[</span><a href=\"https://hasanmhdamin.github.io/collaborative-learning/\"><span>Preview Link</span></a><span>]</span></p>\n<p dir=\"ltr\">&nbsp;</p>",
+    "company": "Personal Project",
+    "companyUrl": "",
+    "platforms": [
+      "Front-end",
+      "Back-end"
+    ],
+    "duration": "",
+    "tags": [
+      "ReactJS",
+      "Node JS Express",
+      "MongoDB",
+      "JSON",
+      "Postman",
+      "Mercury reader",
+      "Git"
+    ],
+    "filters": [
+      "all",
+      "personal",
+      "web"
+    ],
+    "heroImage": "smart-learning.png",
+    "images": []
+  },
+  {
+    "projectName": "Tarani.me",
+    "shortDesc": "Receiving honest constructive anonymous feedback from your employees and your friends.",
+    "HtmlDesc": "<p dir=\"ltr\">Tarani helps you in discovering your strengths and areas for improvement by receiving honest constructive anonymous feedback from your employees and your friends.</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Implementing the back-end user ASP.Net WebApi C#.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Build the RESTful API request and response with error codes.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design the database using MS SQL Server.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Design and implement the web application, eg. of features:</p>\n</li>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Create user profile.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Show messages.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Mark some messages as favourite.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Mark some messages as pinned.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Support Multi-language.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Login, Registration, Change Password, Upload Photo.</p>\n</li>\n</ul>\n</ul>\n<p dir=\"ltr\">[<a href=\"https://www.tarani.me/\" target=\"_blank\">Preview Link</a>]</p>\n<p dir=\"ltr\">Test login credential:</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Email:&nbsp; &nbsp; &nbsp; &nbsp; test@tarani.me</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Password: 123123</p>\n</li>\n</ul>\n<p dir=\"ltr\">&nbsp;</p>",
+    "company": "Personal Project",
+    "companyUrl": "",
+    "platforms": [
+      "Front-end",
+      "Back-end"
+    ],
+    "duration": "",
+    "tags": [
+      "ReactJS",
+      "ASP.Net",
+      "C#",
+      "Entity Framework",
+      "MSSQL",
+      "JSON",
+      "Postman",
+      "Git"
+    ],
+    "filters": [
+      "all",
+      "personal",
+      "web"
+    ],
+    "heroImage": "tarani.png",
+    "images": []
+  }
+]

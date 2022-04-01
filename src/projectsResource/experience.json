@@ -1,0 +1,42 @@
+[
+  {
+    "jobPosition": "Android App Engineer",
+    "company": "Deichmann, Essen",
+    "companyUrl": "https://deichmann.com/",
+    "companyImageUrl": "/images/logos/deichmann.jpeg",
+    "imageAlt": "deichmann logo",
+    "duration": "February 2021 – <b>Present</b>",
+    "responsibilities": "<ul> <li> Developing an <b>Android</b> application that runs on <b>Android TV</b> and <b>Chromebox OS</b>. This is an Android app that runs on a large touch-screen like a <b>Kiosk</b> to let the user interact with it and place an order. This application has different build variants to support other companies besides Deichman like (<a href={\"https://www.dosenbach.ch/\"} target={\"blank\"}>Dosenbach</a> and <a href={\"https://www.ochsner-shoes.ch/\"} target={\"blank\"}>Ochsner Shoes</a> in Switzerland, <a href={\"https://www.vanharen.nl/\"} target={\"blank\"}>vanHaren</a> in the Netherlands and in Belgium) by creating multiple applications with only one code-base. </li> <li> Support a digital agency to create the Android client mobile app. </li> <li>Create libraries to use in the app and provide it to the agency that develops the mobile app.</li> <li>Develop a backend using <b>.Net Core</b> to let Mandates manage their advertisements that appear on the screens in each store.</li> </ul>",
+    "tools": "Android Studio, Visual Studio, Kotlin, Java, Agile, MVP, Kiosk mood, Google Maps, Room DB, Dagger Dependency Injection."
+  },
+  {
+    "jobPosition": "Android Developer <small><small>(Part Time)</small></small>",
+    "company": "IMG.LY GmbH, Bochum",
+    "companyUrl": "https://img.ly/",
+    "companyImageUrl": "/images/logos/imgly.png",
+    "imageAlt": "img.ly logo",
+    "duration": "(1 Year) October 2019 – September 2020",
+    "responsibilities": " <ul> <li> Implement new features to PhotoEditor SDK and VideoEditor SDK in the <b>Android</b> version. </li> <li> Create plugins for <b>Cordova</b> and <b>Ionic</b> to wrap the native PhotoEditor SDK and VideoEditor SDK to make it easily used and integrated with apps built using Cordova and Ionic without forcing the developers to leave their <b>JavaScript</b> tooling and programming environment. </li></ul>",
+    "tools": "Android Studio, Visual Studio Code, Java, Kotlin, Cordova, Ionic, C++, OpenGl."
+  },
+  {
+    "jobPosition": "Android & <br/>Backend Developer <small>(Part Time)</small>",
+    "company": "University of Duisburg-Essen <br/> Interactive Systems Group, Duisburg",
+    "companyUrl": "https://interactivesystems.info/",
+    "companyImageUrl": "/images/logos/interactive_systems.png",
+    "imageAlt": "interactive systems logo",
+    "duration": "(2 Years) August 2018 – September 2020",
+    "responsibilities": "<ul><li> Implement an <b>Android</b> application designed to study and compare various mood measures and interactive designs. </li> <li> Implement an Android application that I developed as the platform for running research studies. It tracks user behavior and <b>smartphone sensor</b> data. </li> <li> Implement the <b>backend</b> for this two previous Android application using <b>Spring Boot</b> and design the <b>database</b>. </li> </ul>",
+    "tools": "Android Studio, Java, Spring Boot, JSON, ContentResolver, ActivityRecognitionClient, AlarmManager, AccessibilityService, Device Sensors, Firebase, ORM database, Git, Postman, Runtime permissions, MySQL, PHP."
+  },
+  {
+    "jobPosition": "Android Developer",
+    "company": "CloudAppers, Damascus",
+    "companyUrl": "http://cloudappers.com/",
+    "companyImageUrl": "/images/logos/cloudappers.png",
+    "imageAlt": "cloudAppers logo",
+    "duration": "(1,5 Year) February 2016 – August 2017",
+    "responsibilities": "<ul><li> Implement an <b>Android</b> application for \"Roads and Transport Authority\" for <b>Dubai E-Government</b> that allows the user to book parking, renew or replace driver’s license, renew vehicle registration, book a taxi, and too many other services. </li> <li> Implement an <b>Android</b> application for the <b>Department of Culture and Tourism</b> in Abu Dhabi, this application contains a good deal of information about Abu Dhabi city like Hotels & Resorts, Attractions, Culture & Heritage, Restaurants, and Spas, etc. </li><li> Implement an intermediate Real Estate <b>Android</b> mobile application that helps the users connect with agents. </li> </ul>",
+    "tools": "Java, JSON, XML, Android Studio, Google Maps, Firebase, Git, ArcGIS\nMaps, Real Time Messaging."
+  }
+]

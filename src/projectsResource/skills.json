@@ -1,0 +1,38 @@
+{
+  "focusItemInRow": 3,
+  "focus": [
+    {
+      "image": "/images/android.svg",
+      "title": "Android",
+      "alt": "Android icon"
+    },
+    {
+      "image": "/images/frontend.svg",
+      "title": "Full Stack",
+      "alt": "Full Stack icon"
+    },
+    {
+      "image": "/images/kotlin.svg",
+      "title": "Kotlin",
+      "alt": "Kotlin icon"
+    }
+  ],
+  "fields" : [
+    {
+      "title": "Mobile Application Technologies",
+      "description": "Android Studio, Java, Kotlin, Flutter, MVVM, Firebase, Room DB, Dagger DI, Create plugins for (Ionic & Cordova), Google Maps, REST, JSON, XML."
+    },
+    {
+      "title": "Frontend Technologies",
+      "description": "ReactJS, JavaScript, TypeScript, HTML5, CSS, ASP.Net, Bootstrap, WordPress, Joomla."
+    },
+    {
+      "title": "Backend Technologies",
+      "description": "Spring Boot, ASP.Net Core, webAPI, C#, MSSQL, MySQL, Oracle, SQLite, MS Entity Framework, Hibernate, JPA, LINQ, MongoDB, Postman."
+    },
+    {
+      "title": "Project management tools",
+      "description": "Git, Jira, Trello, Slack, Agile methodology."
+    }
+  ]
+}

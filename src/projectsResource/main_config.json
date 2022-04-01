@@ -1,0 +1,22 @@
+{
+  "color": "#0a549f",
+  "name": "Hasan Mhd Amin",
+  "picture": "/images/hasan.jpg",
+  "cvUrl": "https://drive.google.com/file/d/1ujjhTEiO0WdIeQnpfxz4TyLotSi37u3d/view",
+  "headline": "Android Application Developer<br/>Full Stack Developer",
+  "contact": {
+    "email": "hasan.mhd.amin@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/hasanmhdamin/",
+    "github": "https://github.com/hasanMhdAmin",
+    "instagram": "https://www.instagram.com/where_is_hasan/",
+    "skype": null
+  },
+  "showFocus": true,
+  "showFields": true,
+  "showExperience": true,
+  "showProjects": false,
+  "showEducation": true,
+  "showCertificates": true,
+  "showContact": true,
+  "showFooter": true
+}
