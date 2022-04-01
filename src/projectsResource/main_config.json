@@ -1,14 +1,14 @@
 {
-  "color": "#0a549f",
-  "name": "Hasan Mhd Amin",
-  "picture": "/images/hasan.jpg",
+  "color": "#9c1c38",
+  "name": "Cham Almatar",
+  "picture": "/images/cham.jpg",
   "cvUrl": "https://drive.google.com/file/d/1ujjhTEiO0WdIeQnpfxz4TyLotSi37u3d/view",
-  "headline": "Android Application Developer<br/>Full Stack Developer",
+  "headline": "Information Technology Consultant",
   "contact": {
-    "email": "hasan.mhd.amin@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hasanmhdamin/",
-    "github": "https://github.com/hasanMhdAmin",
-    "instagram": "https://www.instagram.com/where_is_hasan/",
+    "email": "cham.almatar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/cham-almatar-938140151/",
+    "github": "https://github.com/Cham97",
+    "instagram": "https://www.instagram.com/sham_alm/",
     "skype": null
   },
   "showFocus": true,
