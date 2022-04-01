@@ -5,10 +5,12 @@ import Grid from "@material-ui/core/Grid";
 import Paper from "@material-ui/core/Paper";
 import AOS from 'aos';
 import SkillsData from '../../../projectsResource/skills';
+import MainConfig from '../../../projectsResource/main_config';
 
 function Skills() {
     AOS.init();
     const skillsData = SkillsData
+    const mainConfig = MainConfig
     const styles = {
         background: {
             paddingTop: 70,
@@ -43,6 +45,29 @@ function Skills() {
         }
     };
 
+    function getFields() {
+        if (mainConfig.showFields)
+            return <Grid container spacing={3}>
+
+                {skillsData.fields.map((field, index) => (
+                    <Grid item md={6} xs={12}
+                          data-aos="fade-up"
+                          data-aos-delay={index % 2 === 0 ? 400 : 800}
+                          data-aos-duration="1000">
+                        <Paper elevation={3} style={styles.section}>
+                            <h1 className={"subheading"}>{field.title}</h1>
+                            <div style={styles.responsibilities}>
+                                {field.description}
+                            </div>
+                        </Paper>
+                    </Grid>
+                ))}
+
+            </Grid>
+        else
+            return <div/>
+    }
+
     return (
         <div id="skills" style={styles.background} className={"fontStyle"}>
             <Container maxWidth="lg">
@@ -66,25 +91,7 @@ function Skills() {
                     ))}
 
                 </Grid>
-
-                <Grid container spacing={3}>
-
-                    {skillsData.fields.map((field, index) => (
-                        <Grid item md={6} xs={12}
-                              data-aos="fade-up"
-                              data-aos-delay={index % 2 === 0 ? 400 : 800}
-                              data-aos-duration="1000">
-                            <Paper elevation={3} style={styles.section}>
-                                <h1 className={"subheading"}>{field.title}</h1>
-                                <div style={styles.responsibilities}>
-                                    {field.description}
-                                </div>
-                            </Paper>
-                        </Grid>
-                    ))}
-
-                </Grid>
-
+                {getFields()}
             </Container>
         </div>
 

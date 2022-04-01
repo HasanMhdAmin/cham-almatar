@@ -2,19 +2,19 @@
   "focusItemInRow": 3,
   "focus": [
     {
-      "image": "/images/android.svg",
-      "title": "Android",
-      "alt": "Android icon"
+      "image": "/images/java.svg",
+      "title": "Java",
+      "alt": "java icon"
+    },
+    {
+      "image": "/images/sap.png",
+      "title": "SAP HANA",
+      "alt": "sap icon"
     },
     {
       "image": "/images/frontend.svg",
-      "title": "Full Stack",
-      "alt": "Full Stack icon"
-    },
-    {
-      "image": "/images/kotlin.svg",
-      "title": "Kotlin",
-      "alt": "Kotlin icon"
+      "title": "Frontend",
+      "alt": "Frontend icon"
     }
   ],
   "fields" : [

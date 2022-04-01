@@ -12,7 +12,7 @@
     "skype": null
   },
   "showFocus": true,
-  "showFields": true,
+  "showFields": false,
   "showExperience": true,
   "showProjects": false,
   "showEducation": true,
