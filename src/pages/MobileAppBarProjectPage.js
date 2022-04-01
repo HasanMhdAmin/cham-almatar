@@ -14,7 +14,7 @@ import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "@material-ui/icons/Menu";
 import Box from "@material-ui/core/Box";
 import Drawer from "@material-ui/core/Drawer";
-import MainConfig from '../../../projectsResource/main_config';
+import MainConfig from '../projectsResource/main_config';
 
 const useStyles = makeStyles({
     list: {
