@@ -8,6 +8,7 @@ import Projects from "./sections/Projects";
 import Contact from "./sections/Contact";
 import {useParams} from "react-router-dom";
 import MainConfig from '../../projectsResource/main_config';
+import Certificate from "./sections/Certificate";
 
 function Home() {
     let {section} = useParams();
@@ -39,6 +40,7 @@ function Home() {
             <Skills id="skills"/>
             <Experience id="experience" className="showBig"/>
             {projects()}
+            <Certificate id="certificate"/>
             <Education id="education"/>
             <Contact id="contact"/>
         </div>
