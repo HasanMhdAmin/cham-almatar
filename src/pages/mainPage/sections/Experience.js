@@ -93,23 +93,22 @@ function Experience() {
                             <div dangerouslySetInnerHTML={{__html: experience.duration}}/>
                         </a>
                     </Grid>
-                    <Grid item xs={2}>
-                        <a href={experience.companyUrl} target={"blank"}>
-                            <img style={styles.image} src={process.env.PUBLIC_URL + experience.companyImageUrl}
-                                 alt={experience.imageAlt}/>
-                        </a>
-                    </Grid>
+                    {/*<Grid item xs={2}>*/}
+                    {/*    <a href={experience.companyUrl} target={"blank"}>*/}
+                    {/*        <img style={styles.image} src={process.env.PUBLIC_URL + experience.companyImageUrl}*/}
+                    {/*             alt={experience.imageAlt}/>*/}
+                    {/*    </a>*/}
+                    {/*</Grid>*/}
                 </Grid>
 
                 <div style={styles.responsibilities}>
-                    Responsibilities include:
                     <div dangerouslySetInnerHTML={{__html: experience.responsibilities}}/>
                 </div>
 
-                <div style={styles.responsibilities}>
-                    <i>Used methods and tools:</i>
-                    <div dangerouslySetInnerHTML={{__html: experience.tools}}/>
-                </div>
+                {/*<div style={styles.responsibilities}>*/}
+                {/*    <i>Used methods and tools:</i>*/}
+                {/*    <div dangerouslySetInnerHTML={{__html: experience.tools}}/>*/}
+                {/*</div>*/}
 
             </Paper>
         ))
