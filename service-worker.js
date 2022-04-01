@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cham-almatar-website/precache-manifest.355152a36eb2096dc5fb8df7d1937ad3.js"
+  "/cham-almatar-website/precache-manifest.8b6a53d177d99336c13bd74adec0dd98.js"
 );
 
 self.addEventListener('message', (event) => {

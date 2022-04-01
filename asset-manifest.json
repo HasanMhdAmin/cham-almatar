@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cham-almatar-website/static/css/main.8422e895.chunk.css",
-    "main.js": "/cham-almatar-website/static/js/main.857a820d.chunk.js",
-    "main.js.map": "/cham-almatar-website/static/js/main.857a820d.chunk.js.map",
+    "main.js": "/cham-almatar-website/static/js/main.a46e45f8.chunk.js",
+    "main.js.map": "/cham-almatar-website/static/js/main.a46e45f8.chunk.js.map",
     "runtime-main.js": "/cham-almatar-website/static/js/runtime-main.0312a64d.js",
     "runtime-main.js.map": "/cham-almatar-website/static/js/runtime-main.0312a64d.js.map",
-    "static/js/2.87697220.chunk.js": "/cham-almatar-website/static/js/2.87697220.chunk.js",
-    "static/js/2.87697220.chunk.js.map": "/cham-almatar-website/static/js/2.87697220.chunk.js.map",
+    "static/js/2.c568b52e.chunk.js": "/cham-almatar-website/static/js/2.c568b52e.chunk.js",
+    "static/js/2.c568b52e.chunk.js.map": "/cham-almatar-website/static/js/2.c568b52e.chunk.js.map",
     "index.html": "/cham-almatar-website/index.html",
-    "precache-manifest.355152a36eb2096dc5fb8df7d1937ad3.js": "/cham-almatar-website/precache-manifest.355152a36eb2096dc5fb8df7d1937ad3.js",
+    "precache-manifest.8b6a53d177d99336c13bd74adec0dd98.js": "/cham-almatar-website/precache-manifest.8b6a53d177d99336c13bd74adec0dd98.js",
     "service-worker.js": "/cham-almatar-website/service-worker.js",
     "static/css/main.8422e895.chunk.css.map": "/cham-almatar-website/static/css/main.8422e895.chunk.css.map",
-    "static/js/2.87697220.chunk.js.LICENSE.txt": "/cham-almatar-website/static/js/2.87697220.chunk.js.LICENSE.txt"
+    "static/js/2.c568b52e.chunk.js.LICENSE.txt": "/cham-almatar-website/static/js/2.c568b52e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0312a64d.js",
-    "static/js/2.87697220.chunk.js",
+    "static/js/2.c568b52e.chunk.js",
     "static/css/main.8422e895.chunk.css",
-    "static/js/main.857a820d.chunk.js"
+    "static/js/main.a46e45f8.chunk.js"
   ]
 }
