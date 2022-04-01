@@ -14,6 +14,7 @@ import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "@material-ui/icons/Menu";
 import Box from "@material-ui/core/Box";
 import Drawer from "@material-ui/core/Drawer";
+import MainConfig from '../../../projectsResource/main_config';
 
 const useStyles = makeStyles({
     list: {
@@ -25,6 +26,7 @@ const useStyles = makeStyles({
 });
 
 function MobileAppBarProjectPage() {
+    const mainConfig = MainConfig
     const classes = useStyles();
     const [state, setState] = React.useState({
         top: false,
@@ -138,7 +140,7 @@ function MobileAppBarProjectPage() {
                         let url = window.location.protocol + "//" + window.location.host;
                         window.location.replace(url);
                     }}>
-                        Hasan Mhd Amin
+                        {mainConfig.name}
                     </Box>
 
                 </Toolbar>
