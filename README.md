@@ -10,6 +10,9 @@ In then project you will find Json files in the directory `yarn projectsResource
 - `certificate.json` List your certificates.
 - `education.json` List your educations.
 
+## Update Media Resources
+- In `public/images/` you can update all your media resources, main picture, companies logo, projects images, skills images.
+
 ## Available Scripts
 
 In the project directory, you can run:
