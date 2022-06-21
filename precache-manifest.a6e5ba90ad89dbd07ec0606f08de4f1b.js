@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "795c23c7a1f56b5a972410cd468c7d05",
+    "revision": "0a32c9c03a51e8c6011ff223509e0bbb",
     "url": "/cham-almatar-website/index.html"
   },
   {
